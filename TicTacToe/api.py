@@ -2,9 +2,7 @@ import requests
 import json
 
 user = {1075: {'x-api-key': 'e6d06fd983ba61ce7de5', 'userId': '1075'},
-        923: {'x-api-key': '691bd185db168dfdfca4', 'userId': '923'},
-        933: {'x-api-key': '1c7f5baf36bdf3bbc438', 'userId': '933'},
-        934: {'x-api-key': '691bd185db168dfdfca4', 'userId': '934'}}
+        1073: {'x-api-key': '8cb994416edcf5afe070', 'userId': '1073'}}
 
 
 class Api:
