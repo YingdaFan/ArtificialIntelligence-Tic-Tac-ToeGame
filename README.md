@@ -26,5 +26,5 @@ function minimax(board, depth, isMaximizingPlayer):
             value = minimax(board, depth+1, true)
             best = min( best, value) 
         return best
-![image](https://user-images.githubusercontent.com/60612585/118830832-d5e33b00-b8f1-11eb-8ecb-f4780814e6ca.png)
+
 
